@@ -1,0 +1,38 @@
+body{
+    background:navy;
+}
+
+h1{
+    font-family: 'Monoton', cursive;
+    text-align:center;
+}
+
+.title-area{
+color:red;
+text-decoration:underline overline;
+
+}
+
+.chapters{
+    color:gold;
+    border:3px dotted red;
+    }
+
+
+
+
+
+
+
+
+ img{
+     height:550px;
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+    }
+
+.logo{
+    background:white;
+}
