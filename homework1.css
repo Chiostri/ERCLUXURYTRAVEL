@@ -1,0 +1,12 @@
+li {
+    font-size: 20pt;
+    color: whitesmoke;
+    font-weight: bold;
+    border: 2px solid rgb(255, 255, 255);
+    padding: 5px;
+    margin: 5px;
+}
+
+ul {
+    background-color: rgba(209, 190, 139, 0.945);
+    
