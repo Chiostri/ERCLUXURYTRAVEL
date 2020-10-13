@@ -1,0 +1,41 @@
+</html>
+
+<html>
+    <head>
+ <div>       
+       
+<div class="sidenav">
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="blog.html">Blog</a>
+  <a href="testimonials.html">Testimonials</a>
+  <a href="contact.html">Contact</a>
+  <button class="dropdown-btn">Dropdown
+    <i class="fa fa-caret-down"></i>
+  </button>
+  <div class="dropdown-container">
+    <a href="#">Link 1</a>
+    <a href="#">Link 2</a>
+    <a href="#">Link 3</a>
+    <a href="#">Link 4</a>
+  
+  <a href="#contact">Search</a>
+</div>
+        <title>ERIKA RIGNEY CHIOSTRI</title>
+      
+        <link rel="stylesheet" href ="./homework1.css"/>
+
+            <style>
+                .center-img {
+                    display: block;
+                    margin-left: auto;
+                    margin-right: auto;
+                    width: 75%;
+                    }
+            </style>
+
+            
+    </head>
+   
+    <body>
+    
